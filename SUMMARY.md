@@ -9,3 +9,5 @@
 ## 大学选择
 
 * [上海交通大学](da-xue-xuan-ze/shang-hai-jiao-tong-da-xue.md)
+* [辽宁省](da-xue-xuan-ze/liao-ning-sheng/README.md)
+  * [大连理工大学](da-xue-xuan-ze/liao-ning-sheng/da-lian-li-gong-da-xue.md)
