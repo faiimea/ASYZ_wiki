@@ -1,6 +1,6 @@
 # Table of contents
 
-* [报考自救指南](README.md)
+* [鞍山一中·报考自救指南](README.md)
 
 ## 专业选择
 
@@ -33,3 +33,7 @@
   * [北京理工大学](da-xue-xuan-ze/bei-jing-shi/bei-jing-li-gong-da-xue.md)
 * [辽宁省](da-xue-xuan-ze/liao-ning-sheng/README.md)
   * [大连理工大学](da-xue-xuan-ze/liao-ning-sheng/da-lian-li-gong-da-xue.md)
+
+***
+
+* [about](about.md)
